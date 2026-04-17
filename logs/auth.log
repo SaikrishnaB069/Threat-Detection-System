@@ -1,0 +1,12 @@
+Apr 17 10:10:01 server sshd[111]: Failed password for root from 192.168.1.50 port 22
+Apr 17 10:10:03 server sshd[112]: Failed password for admin from 192.168.1.50 port 22
+Apr 17 10:10:05 server sshd[113]: Failed password for test from 192.168.1.50 port 22
+Apr 17 10:10:08 server sshd[114]: Failed password for guest from 45.67.22.10 port 22
+Apr 17 10:10:10 server sshd[115]: Failed password for root from 45.67.22.10 port 22
+Apr 17 10:10:12 server sshd[116]: Accepted password for sai from 192.168.1.20 port 22
+Apr 17 10:10:15 server sshd[117]: Connection from 77.88.99.10 scanned port 21
+Apr 17 10:10:16 server sshd[118]: Connection from 77.88.99.10 scanned port 22
+Apr 17 10:10:17 server sshd[119]: Connection from 77.88.99.10 scanned port 80
+Apr 17 10:30:01 server sshd[200]: Failed password for admin from 99.99.99.99 port 22
+Apr 17 10:30:02 server sshd[201]: Failed password for admin from 99.99.99.99 port 22
+Apr 17 10:30:03 server sshd[202]: Failed password for admin from 99.99.99.99 port 22
